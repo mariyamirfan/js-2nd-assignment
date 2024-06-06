@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+body{
+    background-color: aquamarine;
+}
+button{
+    background-color: cadetblue;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    border: none;
+}
+.link{
+    color: aquamarine;
+}
+button:hover{
+    background-color: aquamarine;
+}
+.link:hover{
+    color: rgb(0, 105, 109);
+}
